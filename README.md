@@ -6,6 +6,10 @@ This project presents an interactive Tableau dashboard developed to analyze book
 
 The objective was to transform the bookshop dataset into meaningful business insights that can support decisions related to inventory planning, marketing, author promotions, publisher partnerships, and customer demand.
 
+## 📊 Tableau Dashboard
+
+![Bookshop Sales & Customer Insights Dashboard](Bookshop_Dashboard.png)
+
 ## 🎯 Business Questions
 
 The analysis focuses on the following questions:
